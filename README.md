@@ -4,7 +4,7 @@ This project is a simple static website created using basic HTML and hosted for 
 
 ## 🌐 Live Site
 
-🔗 [Click here to view the website]()
+🔗 [Click here to view the website](https://vanguriaishwarya.github.io/static-website/)
 
 ## 📁 Repository Contents
 
